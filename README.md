@@ -1,16 +1,12 @@
-# favorite_places
+# 😆Hi there! This is Flutter's favourite place project.
 
-A new Flutter project.
+### 🌟Login uses fingerprint or other biometric
+![image](https://github.com/user-attachments/assets/4e3f2f67-bc86-4b04-9fb3-6f347fa92cab)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### 🌟Provide camera capture and access the GPS Google map fill-in function
+![image](https://github.com/user-attachments/assets/ea439106-2e6b-47c7-a33c-444bcf783d60)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🌟Loading list
+![image](https://github.com/user-attachments/assets/595d5b23-71cb-40e3-9f61-05b9ab079d9d)
+![image](https://github.com/user-attachments/assets/f4d0a16f-9453-4cea-9d7b-e5c80b0c49ae)
